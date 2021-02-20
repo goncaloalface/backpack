@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482181636859",
+    "firebase_url": "https://daam-backpack-76226.firebaseio.com",
+    "project_id": "daam-backpack-76226",
+    "storage_bucket": "daam-backpack-76226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482181636859:android:8820285cff9b534f",
+        "android_client_info": {
+          "package_name": "iul.iscte.daam_backpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482181636859-0oj7o2dqiqfvg3dloco61s56dq3u3g1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iul.iscte.daam_backpack",
+            "certificate_hash": "d5d4253a4d4f6074ccb71fd93c386ce98e79f41a"
+          }
+        },
+        {
+          "client_id": "482181636859-2lmpqpbta3r2nloftsfjt35lmi6v2gsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBzva3PxyAU9WPnlUxWgptmDe9hbFmjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482181636859-2lmpqpbta3r2nloftsfjt35lmi6v2gsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
